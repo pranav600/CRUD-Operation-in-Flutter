@@ -1,4 +1,4 @@
-# CRUD-Operation-in-Flutter
+# Static-CRUD-Operation-in-Flutter
 
 This is a Flutter project for [Static CRUD Operation]. Follow the steps below to set up and run the code.
 
